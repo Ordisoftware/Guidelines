@@ -10,6 +10,7 @@ echo "Repository:"
 read REPO
 
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"Epic","color":"3E4B9E"}' "https://api.github.com/repos/$USER/$REPO/labels"
+curl --user "$USER:$PASS" --include --request POST --data '{"name":"in progress","color":"FFD700"}' "https://api.github.com/repos/$USER/$REPO/labels"
 
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"group: analysis","color":"006B75"}' "https://api.github.com/repos/$USER/$REPO/labels"
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"group: code","color":"006B75"}' "https://api.github.com/repos/$USER/$REPO/labels"
