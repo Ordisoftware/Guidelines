@@ -1,8 +1,8 @@
 # Ordisoftware Guidelines
 
->Licensed under the terms of the [Creative Commons BY-NC-SA 4.0 International](LICENSE.md).
+>Licensed under the terms of the [Mozilla Public License 2.0](LICENSE)
 
-These documents present some rules used by the author to create software.
+Documents presenting some rules to create software.
 
 ### Development Guidelines
 
@@ -21,8 +21,8 @@ These documents present some rules used by the author to create software.
 * Using GitHub
 * Bibliography
 
-Being produced.
+*Being produced.*
 
 ### Methodology Guidelines
 
-To produce.
+*To produce.*

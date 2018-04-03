@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Root", "Root", "{CDE85BE7-A9FF-4957-977C-2A17CD584199}"
+	ProjectSection(SolutionItems) = preProject
+		Development Guidelines.docx = Development Guidelines.docx
+		Development Guidelines.pdf = Development Guidelines.pdf
+		Diagrams.simp = Diagrams.simp
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GitHub Setup", "GitHub Setup", "{3147C08B-08E0-4D97-83D3-3AB0AA91964F}"
+	ProjectSection(SolutionItems) = preProject
+		GitHub Scripts\GitHub-Create-Labels.sh = GitHub Scripts\GitHub-Create-Labels.sh
+		GitHub Scripts\GitHub-Create-Milestones.sh = GitHub Scripts\GitHub-Create-Milestones.sh
+		GitHub Scripts\GitHub-Delete-DefaultLabels.sh = GitHub Scripts\GitHub-Delete-DefaultLabels.sh
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE5FCEFD-2DD0-4777-A27B-F592AB6EBB73}
+	EndGlobalSection
+EndGlobal
