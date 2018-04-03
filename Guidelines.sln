@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Root", "Root", "{CDE85BE7-A
 		Development Guidelines.pdf = Development Guidelines.pdf
 		Diagrams.simp = Diagrams.simp
 		LICENSE = LICENSE
+		Methodology Guidelines.docx = Methodology Guidelines.docx
+		Methodology Guidelines.pdf = Methodology Guidelines.pdf
 		README.md = README.md
 	EndProjectSection
 EndProject
