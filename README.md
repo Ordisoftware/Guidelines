@@ -2,7 +2,7 @@
 
 >Licensed under the terms of the [Creative Commons BY-NC-SA 4.0 International](LICENSE.md).
 
-These documents present some guidelines used by the author to create software.
+These documents present some rules used by the author to create software.
 
 ### Development Guidelines
 
