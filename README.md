@@ -2,7 +2,7 @@
 
 >Licensed under the terms of the [Mozilla Public License 2.0](LICENSE)
 
-Documents presenting some rules to create software.
+There documents present some rules to create software.
 
 ### Development Guidelines
 
@@ -20,6 +20,10 @@ Documents presenting some rules to create software.
 * Using Git
 * Using GitHub
 * Bibliography
+
+Version Word : [Development Guidelines.docx](Development%20Guidelines.docx)
+
+Version PDF : [Development Guidelines.pdf](Development%20Guidelines.pdf)
 
 *Being produced.*
 
