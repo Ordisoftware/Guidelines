@@ -1,4 +1,4 @@
-# Ordisoftware Development Guidelines
+# Ordisoftware Guidelines
 
 >Licensed under the terms of the [Creative Commons BY-NC-SA 4.0 International](LICENSE.md).
 
