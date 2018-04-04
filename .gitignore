@@ -1,4 +1,4 @@
-﻿/GitHub\ Setup/*.sh linguist-detectable=false
+﻿GitHubSetup/* linguist-documentation
 
 .vs
 ~$*
