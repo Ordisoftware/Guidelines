@@ -4,6 +4,10 @@
 
 There documents present some rules to create software.
 
+* [GitHub Page](https://ordisoftware.github.io/Guidelines)
+* [GitHub Repository](https://github.com/Ordisoftware/Guidelines)
+* [Project Website](http://www.ordisoftware.com/en/projects/guidelines)
+
 ### Development Guidelines
 
 #### Table of content
