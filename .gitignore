@@ -2,7 +2,7 @@
 # Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
 ################################################################################
 
-GitHubSetup/* linguist-detectable=false
+*.sh linguist-detectable=false
 
 /.vs
 /~$*
