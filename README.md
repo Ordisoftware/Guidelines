@@ -25,7 +25,7 @@ There documents present some rules to create software.
 * Using GitHub
 * Bibliography
 
-Version MS Word : [Guidelines Development.docx](source/Guidelines%20Development.docx)
+Version MS Word : [Guidelines Development.docx](Source/Guidelines%20Development.docx)
 
 Version PDF : [Guidelines Development.pdf](Guidelines%20Development.pdf)
 
@@ -33,7 +33,7 @@ Version PDF : [Guidelines Development.pdf](Guidelines%20Development.pdf)
 
 ### Methodology Guidelines
 
-Version MS Word : [Guidelines Methodology.docx](source/Guidelines%20Methodology.docx)
+Version MS Word : [Guidelines Methodology.docx](Source/Guidelines%20Methodology.docx)
 
 Version PDF : [Guidelines Methodology.pdf](Guidelines%20Methodology.pdf)
 
