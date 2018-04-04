@@ -2,14 +2,14 @@
 
 >Licensed under the terms of the [Mozilla Public License 2.0](LICENSE)
 
-There documents present some rules to create software.
+These documents present some rules to create software.
+
+- [Development Guidelines](#development-guidelines)
+- [Methodology Guidelines](#methodology-guidelines)
 
 * [GitHub Page](https://ordisoftware.github.io/Guidelines)
 * [GitHub Repository](https://github.com/Ordisoftware/Guidelines)
 * [Project Website](http://www.ordisoftware.com/en/projects/guidelines)
-
-- [Development Guidelines](#development-guidelines)
-- [Methodology Guidelines](#methodology-guidelines)
 
 ### Development Guidelines
 
