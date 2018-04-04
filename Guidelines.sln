@@ -9,18 +9,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Root", "Root", "{CDE85BE7-A
 		Development Guidelines.docx = Development Guidelines.docx
 		Development Guidelines.pdf = Development Guidelines.pdf
 		Diagrams.simp = Diagrams.simp
+		GitHub Labels Create.sh = GitHub Labels Create.sh
+		GitHub Labels Delete.sh = GitHub Labels Delete.sh
+		GitHub Milestones Create.sh = GitHub Milestones Create.sh
 		LICENSE = LICENSE
 		Methodology Guidelines.docx = Methodology Guidelines.docx
 		Methodology Guidelines.pdf = Methodology Guidelines.pdf
 		README.md = README.md
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GitHub Setup", "GitHub Setup", "{3147C08B-08E0-4D97-83D3-3AB0AA91964F}"
-	ProjectSection(SolutionItems) = preProject
-		GitHub Setup\.gitignore = GitHub Setup\.gitignore
-		GitHub Setup\GitHub-Create-Labels.sh = GitHub Setup\GitHub-Create-Labels.sh
-		GitHub Setup\GitHub-Create-Milestones.sh = GitHub Setup\GitHub-Create-Milestones.sh
-		GitHub Setup\GitHub-Delete-DefaultLabels.sh = GitHub Setup\GitHub-Delete-DefaultLabels.sh
 	EndProjectSection
 EndProject
 Global

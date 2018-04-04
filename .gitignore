@@ -1,2 +1,4 @@
-﻿.vs
+﻿*.sh linguist-detectable=false
+ 
+.vs
 ~$*
