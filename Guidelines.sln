@@ -15,12 +15,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Root", "Root", "{CDE85BE7-A
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GitHubSetup", "GitHubSetup", "{3147C08B-08E0-4D97-83D3-3AB0AA91964F}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GitHub Setup", "GitHub Setup", "{3147C08B-08E0-4D97-83D3-3AB0AA91964F}"
 	ProjectSection(SolutionItems) = preProject
-		GitHubSetup\.gitignore = GitHubSetup\.gitignore
-		GitHubSetup\GitHub-Create-Labels.sh = GitHubSetup\GitHub-Create-Labels.sh
-		GitHubSetup\GitHub-Create-Milestones.sh = GitHubSetup\GitHub-Create-Milestones.sh
-		GitHubSetup\GitHub-Delete-DefaultLabels.sh = GitHubSetup\GitHub-Delete-DefaultLabels.sh
+		GitHub Setup\.gitignore = GitHub Setup\.gitignore
+		GitHub Setup\GitHub-Create-Labels.sh = GitHub Setup\GitHub-Create-Labels.sh
+		GitHub Setup\GitHub-Create-Milestones.sh = GitHub Setup\GitHub-Create-Milestones.sh
+		GitHub Setup\GitHub-Delete-DefaultLabels.sh = GitHub Setup\GitHub-Delete-DefaultLabels.sh
 	EndProjectSection
 EndProject
 Global
