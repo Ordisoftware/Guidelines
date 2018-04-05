@@ -42,8 +42,8 @@ curl --user "$USER:$PASS" --include --request POST --data '{"name":"state: 50%",
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"state: 75%","color":"FFD700","description":"Three quarters of the tasks are done"}' "https://api.github.com/repos/$USER/$REPO/labels"
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"state: 90%","color":"FFD700","description":"Tasks are almost completed"}' "https://api.github.com/repos/$USER/$REPO/labels"
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"state: 100%","color":"FFF3B5","description":"Tasks are finished"}' "https://api.github.com/repos/$USER/$REPO/labels"
-curl --user "$USER:$PASS" --include --request POST --data '{"name":"state: cancelled","color":"EAEAEA","description":"Forsaken"}' "https://api.github.com/repos/$USER/$REPO/labels"
-curl --user "$USER:$PASS" --include --request POST --data '{"name":"state: delayed","color":"CACACA","description":"Set aside"}' "https://api.github.com/repos/$USER/$REPO/labels"
+curl --user "$USER:$PASS" --include --request POST --data '{"name":"state: cancelled","color":"EAEAEA","description":"Abandoned"}' "https://api.github.com/repos/$USER/$REPO/labels"
+curl --user "$USER:$PASS" --include --request POST --data '{"name":"state: delayed","color":"CACACA","description":"Deferred"}' "https://api.github.com/repos/$USER/$REPO/labels"
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"state: todo","color":"C2E0C6","description":"Selected"}' "https://api.github.com/repos/$USER/$REPO/labels"
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"state: wontfix","color":"707070","description":"Failed"}' "https://api.github.com/repos/$USER/$REPO/labels"
 
@@ -55,7 +55,7 @@ curl --user "$USER:$PASS" --include --request POST --data '{"name":"type: improv
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"type: layout","color":"0E8A16","description":"Organization and planning"}' "https://api.github.com/repos/$USER/$REPO/labels"
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"type: legal","color":"0E8A16","description":"Licensing"}' "https://api.github.com/repos/$USER/$REPO/labels"
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"type: method","color":"0E8A16","description":"Guideline"}' "https://api.github.com/repos/$USER/$REPO/labels"
-curl --user "$USER:$PASS" --include --request POST --data '{"name":"type: test","color":"0E8A16","description":"Validate"}' "https://api.github.com/repos/$USER/$REPO/labels"
+curl --user "$USER:$PASS" --include --request POST --data '{"name":"type: check","color":"0E8A16","description":"Test, revision and validation"}' "https://api.github.com/repos/$USER/$REPO/labels"
 
 echo "Press any key to continue."
 read -n 1 -s -r -p ""-->
