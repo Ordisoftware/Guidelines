@@ -6,7 +6,7 @@ These documents present some rules to create software.
 
 - [Development Guidelines](#development-guidelines)
 - [Methodology Guidelines](#methodology-guidelines)
-- [Release v0.1-alpha](releases/tag/v0.1-alpha)
+- [Release v0.1-alpha](../../releases/tag/v0.1-alpha)
 
 * [GitHub Page](https://ordisoftware.github.io/Guidelines)
 * [GitHub Repository](https://github.com/Ordisoftware/Guidelines)
