@@ -21,10 +21,10 @@ curl --user "$USER:$PASS" --include --request POST --data '{"name":"group: proje
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"group: training","color":"006B75","description":"Learning"}' "https://api.github.com/repos/$USER/$REPO/labels"
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"group: user","color":"006B75","description":"Assistance and communication"}' "https://api.github.com/repos/$USER/$REPO/labels"
 
-curl --user "$USER:$PASS" --include --request POST --data '{"name":"item: application","color":"1D76DB","description":"Product and executable"}' "https://api.github.com/repos/$USER/$REPO/labels"
+curl --user "$USER:$PASS" --include --request POST --data '{"name":"item: app","color":"1D76DB","description":"Product and executable"}' "https://api.github.com/repos/$USER/$REPO/labels"
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"item: data","color":"1D76DB","description":"Information"}' "https://api.github.com/repos/$USER/$REPO/labels"
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"item: diagram","color":"1D76DB","description":"Representation"}' "https://api.github.com/repos/$USER/$REPO/labels"
-curl --user "$USER:$PASS" --include --request POST --data '{"name":"item: installer","color":"1D76DB","description":"Packager"}' "https://api.github.com/repos/$USER/$REPO/labels"
+curl --user "$USER:$PASS" --include --request POST --data '{"name":"item: install","color":"1D76DB","description":"Packager"}' "https://api.github.com/repos/$USER/$REPO/labels"
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"item: other","color":"1D76DB","description":""}' "https://api.github.com/repos/$USER/$REPO/labels"
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"item: source","color":"1D76DB","description":"Code file"}' "https://api.github.com/repos/$USER/$REPO/labels"
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"item: text","color":"1D76DB","description":"Writing"}' "https://api.github.com/repos/$USER/$REPO/labels"
