@@ -11,9 +11,9 @@ These documents present some rules to create software.
 * [GitHub Repository](https://github.com/Ordisoftware/Guidelines)
 * [Project Website](http://www.ordisoftware.com/en/projects/guidelines)
 
-### Development Guidelines
+## Development Guidelines
 
-#### Table of content
+### Table of content
 
 * License
 * Foreword
@@ -34,7 +34,7 @@ Version PDF : [Guidelines Development.pdf](Guidelines%20Development.pdf)
 
 *Being produced.*
 
-### Methodology Guidelines
+## Methodology Guidelines
 
 Version MS Word : [Guidelines Methodology.docx](Source/Guidelines%20Methodology.docx)
 
