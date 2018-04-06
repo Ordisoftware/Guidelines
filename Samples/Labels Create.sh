@@ -1,4 +1,4 @@
-<!--#!/bin/bash
+#!/bin/bash
 
 echo "GitHub User:"
 read USER
@@ -59,4 +59,4 @@ curl --user "$USER:$PASS" --include --request POST --data '{"name":"type: method
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"type: check","color":"0E8A16","description":"Test, revision and validation"}' "https://api.github.com/repos/$USER/$REPO/labels"
 
 echo "Press any key to continue."
-read -n 1 -s -r -p ""-->
+read -n 1 -s -r -p ""
