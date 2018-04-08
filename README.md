@@ -22,11 +22,11 @@ This document presents some rules to create software.
   * Modeling
   * Ecosystem
 * Programming
-  * Project tools
-  * Folder structure
-  * Naming convention
-  * Comments usage
-  * Code formatting
+  * Tools
+  * Paths
+  * Naming
+  * Comments
+  * Formatting
 * UI design
   * Console
   * Forms
