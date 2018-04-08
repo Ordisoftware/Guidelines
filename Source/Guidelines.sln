@@ -5,8 +5,7 @@ VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{CDE85BE7-A9FF-4957-977C-2A17CD584199}"
 	ProjectSection(SolutionItems) = preProject
-		Guidelines Development.docx = Guidelines Development.docx
-		Guidelines Methodology.docx = Guidelines Methodology.docx
+		Manufacturing Software Guidelines.docx = Manufacturing Software Guidelines.docx
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{8F8D73A1-7DFA-467B-BD3B-13347904DCFC}"
