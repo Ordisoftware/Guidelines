@@ -1,44 +1,41 @@
-# Ordisoftware Guidelines
+# Manufacturing Software Guidelines
 
->Licensed under the terms of the [Mozilla Public License 2.0](LICENSE)
+>Licensed under the terms of the [Mozilla Public License 2.0](LICENSE)<br/>
+>*Being produced*<br/>
+>[GitHub Page](https://ordisoftware.github.io/Guidelines)<br/>
+>[GitHub Repository](https://github.com/Ordisoftware/Guidelines)<br/>
+>[Project Website](http://www.ordisoftware.com/en/projects/guidelines)
 
-These documents present some rules to create software.
 
-- [Development Guidelines](#development-guidelines)
-- [Methodology Guidelines](#methodology-guidelines)
-- [Release v0.1-alpha](../../releases/tag/v0.1-alpha)
+This document presents some rules to create software.
 
-* [GitHub Page](https://ordisoftware.github.io/Guidelines)
-* [GitHub Repository](https://github.com/Ordisoftware/Guidelines)
-* [Project Website](http://www.ordisoftware.com/en/projects/guidelines)
+* [Release v0.2-alpha](../../releases/tag/v0.2-alpha)
+* [Manufacturing Software Guidelines.pdf](Manufacturing%20Software%20Guidelines.pdf)
+* [Manufacturing Software Guidelines.docx](Source/Manufacturing%20Software%20Guidelines.docx)
 
-### Development Guidelines
-
-#### Table of content
+## Table of content
 
 * License
 * Foreword
-* Project tools
-* Project documents
-* Folder structure
-* Naming convention
-* Comments usage
-* Code formatting
+* Methodology
+  * Agility
+  * Dichotomy
+  * Documentation
+  * Modeling
+  * Ecosystem
+* Programming
+  * Tools
+  * Paths
+  * Naming
+  * Comments
+  * Formatting
 * UI design
-* Using Git
-* Using GitHub
+  * Console
+  * Forms
+  * Web
+  * Mobile
+  * TV
+* Using Git and GitHub
+  * Naming artifacts
+  * ZenHub boarding
 * Bibliography
-
-Version MS Word : [Guidelines Development.docx](Source/Guidelines%20Development.docx)
-
-Version PDF : [Guidelines Development.pdf](Guidelines%20Development.pdf)
-
-*Being produced.*
-
-### Methodology Guidelines
-
-Version MS Word : [Guidelines Methodology.docx](Source/Guidelines%20Methodology.docx)
-
-Version PDF : [Guidelines Methodology.pdf](Guidelines%20Methodology.pdf)
-
-*To produce.*
