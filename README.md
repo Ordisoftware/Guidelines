@@ -2,16 +2,15 @@
 
 >Licensed under the terms of the [Mozilla Public License 2.0](LICENSE)<br/>
 >*Being produced*<br/>
->[GitHub Page](https://ordisoftware.github.io/Guidelines)<br/>
+>[GitHub Themed Page](https://ordisoftware.github.io/Guidelines)<br/>
 >[GitHub Repository](https://github.com/Ordisoftware/Guidelines)<br/>
->[Project Website](http://www.ordisoftware.com/en/projects/guidelines)
+>[Project Website](http://www.ordisoftware.com/projects/guidelines)<br/>
 
 
 This document presents some rules to create software.
 
-* [Release v0.2-alpha](../../releases/tag/v0.2-alpha)
 * [Manufacturing Software Guidelines.pdf](Manufacturing%20Software%20Guidelines.pdf)
-* [Manufacturing Software Guidelines.docx](Source/Manufacturing%20Software%20Guidelines.docx)
+* [Download release v0.2-alpha](../../releases/tag/v0.2-alpha)
 
 ## Table of content
 
