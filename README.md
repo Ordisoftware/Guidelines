@@ -9,8 +9,8 @@
 
 This document presents some rules to create software.
 
-* [ManufacturingSoftwareGuidelines.pdf](ManufacturingSoftwareGuidelines.pdf)
-* [Download release v0.2-alpha](../../releases/tag/v0.2-alpha)
+* Open [ManufacturingSoftwareGuidelines.pdf](ManufacturingSoftwareGuidelines.pdf)
+* Download [Release v0.2-alpha](../../releases/tag/v0.2-alpha)
 
 ## Table of content
 
