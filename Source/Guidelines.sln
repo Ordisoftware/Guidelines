@@ -5,22 +5,21 @@ VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{CDE85BE7-A9FF-4957-977C-2A17CD584199}"
 	ProjectSection(SolutionItems) = preProject
-		Manufacturing Software Guidelines.docx = Manufacturing Software Guidelines.docx
+		ManufacturingSoftwareGuidelines.docx = ManufacturingSoftwareGuidelines.docx
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{8F8D73A1-7DFA-467B-BD3B-13347904DCFC}"
 	ProjectSection(SolutionItems) = preProject
-		..\Samples\Labels Create.sh = ..\Samples\Labels Create.sh
-		..\Samples\Labels Delete.sh = ..\Samples\Labels Delete.sh
-		..\Samples\Milestones Create.sh = ..\Samples\Milestones Create.sh
-		..\Samples\Project Documents.simp = ..\Samples\Project Documents.simp
+		..\Samples\CreateLabels.sh = ..\Samples\CreateLabels.sh
+		..\Samples\DeleteLabels.sh = ..\Samples\DeleteLabels.sh
+		..\Samples\CreateMilestones.sh = ..\Samples\CreateMilestones.sh
+		..\Samples\Diagrams.simp = ..\Samples\Diagrams.simp
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Root", "Root", "{49C44595-A167-4F6A-B042-E91B72878CC2}"
 	ProjectSection(SolutionItems) = preProject
 		..\.gitignore = ..\.gitignore
-		..\Guidelines Development.pdf = ..\Guidelines Development.pdf
-		..\Guidelines Methodology.pdf = ..\Guidelines Methodology.pdf
+		..\ManufacturingSoftwareGuidelines.pdf = ..\ManufacturingSoftwareGuidelines.pdf
 		..\LICENSE = ..\LICENSE
 		..\README.md = ..\README.md
 	EndProjectSection
