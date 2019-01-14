@@ -9,7 +9,7 @@
 
 This document presents some rules to create software.
 
-* [ManufacturingSoftwareGuidelines.pdf](ManufacturingSoftwareGuidelines.pdf)
+[ManufacturingSoftwareGuidelines.pdf](ManufacturingSoftwareGuidelines.pdf)
 
 ## Table of content
 
