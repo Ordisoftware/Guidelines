@@ -32,4 +32,5 @@ This document presents some rules to create software.
 * Using Git and GitHub
   * Naming artifacts
   * ZenHub boarding
+* Appendices
 * Bibliography
