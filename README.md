@@ -1,7 +1,7 @@
 # Manufacturing Software Guidelines
 
 >Licensed under the terms of the [Mozilla Public License 2.0](LICENSE)<br/>
->[Project Website](http://www.ordisoftware.com/projects/guidelines)<br/>
+>[Project Website](https://www.ordisoftware.com/projects/guidelines)<br/>
 >[Twitter](https://twitter.com/ordisoftware)<br/>
 
 This document presents some rules to create software.
