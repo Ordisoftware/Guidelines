@@ -38,6 +38,10 @@ This document presents some rules to create software.
 
 ## Changelog
 
+#### 2021.04.27 - Version 0.6
+
+-	Update tools and bibliography.
+
 #### 2020.07.03 - Version 0.5
 
 -	Upgrade from Word 2010 to Word 2019
