@@ -1,6 +1,6 @@
 [![License](https://img.shields.io/github/license/ordisoftware/guidelines)](#)&nbsp;
 [![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?label=PDF)](#)&nbsp;
-[![GitHub repo size](https://img.shields.io/github/repo-size/ordisoftware/hebrew-letters)](#)&nbsp;<br/>
+[![GitHub repo size](https://img.shields.io/github/repo-size/ordisoftware/guidelines)](#)&nbsp;<br/>
 [![Ordisoftware.com Project](https://img.shields.io/badge/-Ordisoftware.com%20Project-355F90?logo=WordPress&logoColor=white)](https://www.ordisoftware.com/guidelines)&nbsp;
 
 # Manufacturing Software Guidelines
