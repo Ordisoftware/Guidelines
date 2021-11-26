@@ -1,8 +1,9 @@
-# Manufacturing Software Guidelines
+[![License](https://img.shields.io/github/license/ordisoftware/guidelines)](#)&nbsp;
+[![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?label=PDF)](#)&nbsp;
+[![GitHub repo size](https://img.shields.io/github/repo-size/ordisoftware/guidelines)](#)&nbsp;<br/>
+[![Ordisoftware.com Project](https://img.shields.io/badge/-Ordisoftware.com%20Project-355F90?logo=WordPress&logoColor=white)](https://www.ordisoftware.com/guidelines)&nbsp;
 
->Licensed under the terms of the [Mozilla Public License 2.0](LICENSE)<br/>
->[Project Website](https://www.ordisoftware.com/projects/guidelines)<br/>
->[Twitter](https://twitter.com/ordisoftware)<br/>
+# Manufacturing Software Guidelines
 
 This document presents some rules to create software.
 
