@@ -62,8 +62,8 @@ This document presents some rules to create software.
 
 #### 2018.04.08 - Version 0.2
 
--	The first word of « manufacturing », « building » and « crafting » was chosen for the title of this document because the second usually means « generating the machine code » during the production process and the latter is only recently used in our business and this word designates exactly what is our job which is to create software with our hands and with our minds, and we will always do that by this way.
--	Since in French « développement » and « programmation » are synonyms but in English « development » means « engineering » the title of this document has been revised.
+-	The first word of "manufacturing", "building" and "crafting" was chosen for the title of this document because the second usually means "generating the machine code" during the production process and the latter is only recently used in our business and this word designates exactly what is our job which is to create software with our hands and with our minds, and we will always do that by this way.
+-	Since in French "développement" and "programmation" are synonyms but in English "development" means "engineering" the title of this document has been revised.
 
 #### 2018.04.05 - Version 0.1
 
