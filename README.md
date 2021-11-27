@@ -1,5 +1,6 @@
-[![License](https://img.shields.io/github/license/ordisoftware/guidelines)](#)&nbsp;
-[![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-red?label=PDF)](#)&nbsp;
+[![License MPL 2.0](https://img.shields.io/github/license/ordisoftware/guidelines)](LICENSE)&nbsp;
+[![Doc: MS Word](https://img.shields.io/badge/MS_Word-red?label=doc)](#)&nbsp;
+[![Doc: PHP](https://img.shields.io/badge/PDF-red?label=doc)](#)&nbsp;
 [![GitHub repo size](https://img.shields.io/github/repo-size/ordisoftware/guidelines)](#)&nbsp;<br/>
 [![Ordisoftware.com Project](https://img.shields.io/badge/-Ordisoftware.com%20Project-355F90?logo=WordPress&logoColor=white)](https://www.ordisoftware.com/guidelines)&nbsp;
 
