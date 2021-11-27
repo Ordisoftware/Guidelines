@@ -1,6 +1,8 @@
 [![License MPL 2.0](https://img.shields.io/github/license/ordisoftware/guidelines)](LICENSE)&nbsp;
 [![Doc: MS Word](https://img.shields.io/badge/MS_Word-red?label=doc)](#)&nbsp;
-[![Doc: PHP](https://img.shields.io/badge/PDF-red?label=doc)](#)&nbsp;
+[![Doc: PDF](https://img.shields.io/badge/PDF-red?label=doc)](#)&nbsp;
+[![Method: Agile](https://img.shields.io/badge/Agile-D0A81D.svg?label=method)](https://en.wikipedia.org/wiki/Agile_software_development)&nbsp;
+[![Lang: C#](https://img.shields.io/badge/C%23%2010-%23239120.svg?label=lang)](https://docs.microsoft.com/dotnet/csharp/)&nbsp;
 [![GitHub repo size](https://img.shields.io/github/repo-size/ordisoftware/guidelines)](#)&nbsp;<br/>
 [![Ordisoftware.com Project](https://img.shields.io/badge/-Ordisoftware.com%20Project-355F90?logo=WordPress&logoColor=white)](https://www.ordisoftware.com/guidelines)&nbsp;
 
