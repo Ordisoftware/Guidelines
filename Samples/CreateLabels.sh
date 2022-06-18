@@ -43,7 +43,7 @@ curl --user "$USER:$PASS" --include --request POST --data '{"name":"state: 75%",
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"state: 90%","color":"FFD700","description":"Tasks are almost completed"}' "https://api.github.com/repos/$USER/$REPO/labels"
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"state: 100%","color":"FFF3B5","description":"Tasks are finished"}' "https://api.github.com/repos/$USER/$REPO/labels"
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"state: cancelled","color":"EAEAEA","description":"Abandoned"}' "https://api.github.com/repos/$USER/$REPO/labels"
-curl --user "$USER:$PASS" --include --request POST --data '{"name":"state: moved","color":"EAEAEA","description":"Abandoned"}' "https://api.github.com/repos/$USER/$REPO/labels"
+curl --user "$USER:$PASS" --include --request POST --data '{"name":"state: moved","color":"EAEAEA","description":"Moved to another project"}' "https://api.github.com/repos/$USER/$REPO/labels"
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"state: delayed","color":"CACACA","description":"Deferred"}' "https://api.github.com/repos/$USER/$REPO/labels"
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"state: todo","color":"C2E0C6","description":"Selected"}' "https://api.github.com/repos/$USER/$REPO/labels"
 curl --user "$USER:$PASS" --include --request POST --data '{"name":"state: wontfix","color":"707070","description":"Failed"}' "https://api.github.com/repos/$USER/$REPO/labels"
